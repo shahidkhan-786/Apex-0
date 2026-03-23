@@ -20,8 +20,17 @@ so for the dimensions and proportions you can see my blueprints part where I hav
 
 
 
-and for the 3D model you can see my 3D sections
+and for the 3D model you can see my 3D section
 
 <img width="687" height="693" alt="Screenshot 2026-03-22 143549" src="https://github.com/user-attachments/assets/01e8f2ff-07e1-4d39-8c57-87704681cbf3" />
+
+<img width="868" height="457" alt="Screenshot 2026-03-22 143535" src="https://github.com/user-attachments/assets/32c62fd9-4961-4ed0-bdf3-e983f1ac335b" />
+
+<img width="868" height="457" alt="Screenshot 2026-03-22 143535" src="https://github.com/user-attachments/assets/5aaa36d7-8be6-4886-a6f6-69fffdc85008" />
+
+<img width="989" height="594" alt="Screenshot 2026-03-22 143505" src="https://github.com/user-attachments/assets/4a5231f7-a176-4ab9-9b98-6b9db16f8239" />
+
+
+
 
 
