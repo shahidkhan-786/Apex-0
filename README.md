@@ -13,6 +13,12 @@ for structure part...but there was a flaw...The flight time...I have optimized t
 and also made my own remote control.
 
 so for the dimensions and proportions you can see my blueprints part where I have showed exact dimensions I will be using.
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/97b6a562-cd1b-4804-a29a-28f07e8df8c9" />
+
+
+
+
 and for the 3D model you can see my 3D sections
 
 
