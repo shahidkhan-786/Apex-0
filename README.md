@@ -35,6 +35,12 @@ and for the 3D model you can see my 3D section
 <img width="989" height="594" alt="Screenshot 2026-03-22 143505" src="https://github.com/user-attachments/assets/4a5231f7-a176-4ab9-9b98-6b9db16f8239" />
 
 
+Now for the electronics part :
 
+<img width="1036" height="667" alt="Apex 0 Transmitter" src="https://github.com/user-attachments/assets/01ba39aa-72ad-4810-90ad-ab6023ae8e1f" />
+This is Transmitter Schematic/Wiring diagram
 
+<img width="1255" height="698" alt="Apex 0 Reciever" src="https://github.com/user-attachments/assets/7eef062b-4a4d-4a37-a5d5-bcfdd937ef7a" />
+This is Reciever Schematic/Wiring diagram
 
+ALso the codes are in their respective folder.
