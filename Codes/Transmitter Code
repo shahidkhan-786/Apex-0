@@ -1,0 +1,25 @@
+#include <SPI.h>
+#include <nRF24L01.h>
+#include <RF24.h>
+
+RF24 radio(4, 5); // CE, CSN
+const byte address[6] = "00001";
+Data_Package data;
+
+void setup() {
+  radio.begin();
+  radio.openWritingPipe(address);
+  radio.setPALevel(RF24_PA_MAX); // Use MAX for shielded version
+  radio.stopListening();
+}
+
+void loop() {
+  // Map 0-4095 (ESP32 ADC) to 0-255 (Byte) for efficiency
+  data.throttle = map(analogRead(33), 0, 4095, 0, 255);
+  data.rudder   = map(analogRead(32), 0, 4095, 0, 255);
+  data.aileron  = map(analogRead(34), 0, 4095, 0, 255);
+  data.elevator = map(analogRead(35), 0, 4095, 0, 255);
+
+  radio.write(&data, sizeof(Data_Package));
+  delay(10); // 100Hz refresh rate
+}
