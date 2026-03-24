@@ -1,0 +1,34 @@
+#include <SPI.h>
+#include <nRF24L01.h>
+#include <RF24.h>
+#include <ESP32Servo.h>
+
+RF24 radio(4, 5);
+const byte address[6] = "00001";
+Data_Package data;
+
+Servo throttle, aileron, elevator, rudder;
+
+void setup() {
+  radio.begin();
+  radio.openReadingPipe(0, address);
+  radio.setPALevel(RF24_PA_MAX);
+  radio.startListening();
+
+  throttle.attach(13, 1000, 2000); // ESCs need 1000-2000ms pulse
+  aileron.attach(12);
+  elevator.attach(14);
+  rudder.attach(27);
+}
+
+void loop() {
+  if (radio.available()) {
+    radio.read(&data, sizeof(Data_Package));
+
+    // Map 0-255 back to 0-180 degrees for servos
+    throttle.write(map(data.throttle, 0, 255, 0, 180));
+    aileron.write(map(data.aileron, 0, 255, 0, 180));
+    elevator.write(map(data.elevator, 0, 255, 0, 180));
+    rudder.write(map(data.rudder, 0, 255, 0, 180));
+  }
+}
