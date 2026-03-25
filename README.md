@@ -44,3 +44,8 @@ This is Transmitter Schematic/Wiring diagram
 This is Reciever Schematic/Wiring diagram
 
 ALso the codes are in their respective folder.
+
+Now finally the Bill of materials :
+
+<img width="1331" height="627" alt="Screenshot 2026-03-26 005910" src="https://github.com/user-attachments/assets/e7cbba1f-396f-44e6-b074-2ecbc771dcf3" />
+
