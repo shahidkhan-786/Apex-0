@@ -1,0 +1,29 @@
+﻿,,,,0,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+ITEM,DESCREPTION,QUANTITY,UNIT PRICE (INR),RUNNING TOTAL (INR) ,URL
+,,,,,
+,,,,,
+,,,,,
+Foam Board,Main structure,1,755,755,https://www.amazon.in/gp/product/B0C7P3PR2P/ref=ewc_pr_img_1?smid=A39Y3A5GE42KW5&th=1
+,,,,,
+Servo Motor,Pro-range servo,2,1059,2873,https://robu.in/product/pro-range-ds3115-15kgcm-digital-servo-motor/
+BLDC Motor,Main motor ,1,402,3275,https://robu.in/product/a2212-10t-13t-1400kv-brushless-motor-with-soldered-connector/
+BLDC ESC,SimonK ESC,1,301,3576,https://robu.in/product/30a-bldc-esc-electronic-speed-controller/
+Propellor,Emax Propellor,1,312,3888,https://robu.in/product/emax-104510x4-5-abs-propellers-black-1cw1ccw/
+OLED display,Oled display,1,215,4103,https://robu.in/product/0-96-oled-display-module/
+,,,,,
+Battery,11.1V 2200mAH LiPo,1,1959,6062,https://robocraze.com/products/bonka-2200mah-35c-3s1p-11-1v-lipo-battery?_pos=2&_psq=2200mAh&_ss=e&_v=1.0
+Battery Charger,Imax B3 Lipo Charger,1,339,6401,Imahttps://robocraze.com/products/b3-pro-li-po-battery-charger?_pos=1&_sid=edc09582e&_ss=rx B3 Pro LiPo Battery Charger 
+,,,,,
+NRF24L01 ,Communication module,2,695,7791,https://hubtronics.in/e01-2g4m27d
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,Grand total (INR),7791,
+,,,Grand total (USD),81,
