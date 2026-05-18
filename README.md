@@ -3,14 +3,15 @@
 Hello
 This Readme is a detailed guide or can say walkthrough of my RC plane making journey.
 
-Apex 0 is a remote controlled plane.
- I am making a Trainer plane. fully DIY of course using some modules :)
- It will have four controls (Throttle, Ailerons, Rudder and Elevator) 
- I will be using ESP32 along with NRF24l01+PA+LNA for communication and controlling servos and throttle.
+Apex 0 is a RC trainer plane with 4 control channels.
+Made with custom transmitter and reciever.
+It will have four controls (Throttle, Ailerons, Rudder and Elevator) 
+I will be using ESP32 along with NRF24l01+PA+LNA for communication and controlling servos and throttle.
 
 I am referring to this video : https://youtu.be/LzZ4Oqk_J1Y?si=26B0NShiXBWvZHp2
-for structure part...but there was a flaw...The flight time...I have optimized the design for longer flight time
-and also made my own remote control.
+for structure part...but there was a flaw...The flight time...I have optimized the design for longer flight time.
+
+Also I will be making my own remote controller with 2 Joystick modules.
 
 so for the dimensions and proportions you can see my blueprints part where I have showed exact dimensions I will be using.
 
@@ -37,15 +38,22 @@ and for the 3D model you can see my 3D section
 
 Now for the electronics part :
 
-<img width="1036" height="667" alt="Apex 0 Transmitter" src="https://github.com/user-attachments/assets/01ba39aa-72ad-4810-90ad-ab6023ae8e1f" />
+<img width="1145" height="651" alt="Screenshot 2026-05-17 010003" src="https://github.com/user-attachments/assets/1b81ce11-93e2-4d99-ab07-a3e47c9690f0" />
+
 This is Transmitter Schematic/Wiring diagram
 
-<img width="1255" height="698" alt="Apex 0 Reciever" src="https://github.com/user-attachments/assets/7eef062b-4a4d-4a37-a5d5-bcfdd937ef7a" />
+<img width="1761" height="817" alt="Screenshot 2026-05-17 000849" src="https://github.com/user-attachments/assets/e1faf4e6-8c19-42f1-9525-2c90d56a1945" />
+
 This is Reciever Schematic/Wiring diagram
 
 ALso the codes are in their respective folder.
 
-Now finally the Bill of materials :
+Bill of materials :
 
-<img width="1331" height="627" alt="Screenshot 2026-03-26 005910" src="https://github.com/user-attachments/assets/e7cbba1f-396f-44e6-b074-2ecbc771dcf3" />
+<img width="1716" height="554" alt="Screenshot 2026-05-18 215550" src="https://github.com/user-attachments/assets/78c1ee20-a882-468f-8c66-9368a48c4a1e" />
+
+Now Finally the zine page :
+
+<img width="420" height="595" alt="Apex-0 Zine Page" src="https://github.com/user-attachments/assets/2d5b9d52-5abc-4abf-8b9b-a68a5ab9b013" />
+
 
