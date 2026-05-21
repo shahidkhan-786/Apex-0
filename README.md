@@ -13,6 +13,8 @@ for structure part...but there was a flaw...The flight time...I have optimized t
 
 Also I will be making my own remote controller with 2 Joystick modules.
 
+Note that for the first iteration I will be making all circuit on a perfboard/zero PCB ...and hence there is no pcb in 3D model.Reviewers please do not overlook it.
+
 so for the dimensions and proportions you can see my blueprints part where I have showed exact dimensions I will be using.
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/97b6a562-cd1b-4804-a29a-28f07e8df8c9" />
