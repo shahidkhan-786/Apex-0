@@ -6,14 +6,15 @@ This Readme is a detailed guide or can say walkthrough of my RC plane making jou
 Apex 0 is a RC trainer plane with 4 control channels.
 Made with custom transmitter and reciever.
 It will have four controls (Throttle, Ailerons, Rudder and Elevator) 
-I will be using ESP32 along with NRF24l01+PA+LNA for communication and controlling servos and throttle.
+I will be using ESP32 along with ELRS for communication and controlling servos and throttle.
 
 I am referring to this video : https://youtu.be/LzZ4Oqk_J1Y?si=26B0NShiXBWvZHp2
 for structure part...but there was a flaw...The flight time...I have optimized the design for longer flight time.
 
 Also I will be making my own remote controller with 2 Joystick modules.
 
-Note that for the first iteration I will be making all circuit on a perfboard/zero PCB ...and hence there is no pcb in 3D model.Reviewers please do not overlook it.
+Note that for the first iteration I will be making reciever on a perfboard/zero PCB ...and hence there is no pcb in 3D model.
+Reviewers please do not overlook it.
 
 so for the dimensions and proportions you can see my blueprints part where I have showed exact dimensions I will be using.
 
@@ -24,7 +25,7 @@ so for the dimensions and proportions you can see my blueprints part where I hav
 
 
 
-and for the 3D model you can see my 3D section
+and for the 3D model you can see my 3D section.
 
 <img width="687" height="693" alt="Screenshot 2026-03-22 143549" src="https://github.com/user-attachments/assets/01e8f2ff-07e1-4d39-8c57-87704681cbf3" />
 
@@ -40,22 +41,17 @@ and for the 3D model you can see my 3D section
 
 Now for the electronics part :
 
-<img width="1145" height="651" alt="Screenshot 2026-05-17 010003" src="https://github.com/user-attachments/assets/1b81ce11-93e2-4d99-ab07-a3e47c9690f0" />
+The transmitter Circuit and PCB : 
 
-This is Transmitter Schematic/Wiring diagram
+<img width="1263" height="743" alt="Screenshot 2026-06-16 025854" src="https://github.com/user-attachments/assets/510039b3-6343-47ad-a1d4-0f60e03547bf" />
 
-<img width="1761" height="817" alt="Screenshot 2026-05-17 000849" src="https://github.com/user-attachments/assets/e1faf4e6-8c19-42f1-9525-2c90d56a1945" />
+<img width="1337" height="778" alt="Screenshot 2026-06-17 004416" src="https://github.com/user-attachments/assets/c8871944-a1b5-4bdd-8a2c-34a13263afb5" />
 
-This is Reciever Schematic/Wiring diagram
+<img width="906" height="531" alt="Screenshot 2026-06-17 004446" src="https://github.com/user-attachments/assets/e9bf2bc4-c389-4f91-94d4-d8582725781a" />
 
-ALso the codes are in their respective folder.
+and now the reciever part, again note that I am making this on a perfboard and hence there is no layout/routing part :
 
-Bill of materials :
+<img width="1355" height="660" alt="Screenshot 2026-06-17 014339" src="https://github.com/user-attachments/assets/7c1c7e7f-2571-4bf5-908e-7f005ddaca37" />
 
-<img width="1716" height="554" alt="Screenshot 2026-05-18 215550" src="https://github.com/user-attachments/assets/78c1ee20-a882-468f-8c66-9368a48c4a1e" />
-
-Now Finally the zine page :
-
-<img width="420" height="595" alt="Apex-0 Zine Page" src="https://github.com/user-attachments/assets/2d5b9d52-5abc-4abf-8b9b-a68a5ab9b013" />
 
 
