@@ -13,6 +13,9 @@ for structure part...but there was a flaw...The flight time...I have optimized t
 
 Also I will be making my own remote controller with 2 Joystick modules.
 
+Since I was little I was amazed by people flying planes and drones, basically all flying stuff. and thats why I wanna make my own plane.
+
+
 Note that for the first iteration I will be making reciever on a perfboard/zero PCB ...and hence there is no pcb in 3D model.
 Reviewers please do not overlook it.
 
@@ -53,5 +56,11 @@ and now the reciever part, again note that I am making this on a perfboard and h
 
 <img width="1355" height="660" alt="Screenshot 2026-06-17 014339" src="https://github.com/user-attachments/assets/7c1c7e7f-2571-4bf5-908e-7f005ddaca37" />
 
+The BOM screenshot : 
 
+<img width="1598" height="333" alt="Screenshot 2026-06-18 020254" src="https://github.com/user-attachments/assets/842e4270-46ac-4cdf-83e1-49e69e0f32cb" />
+
+Cart Screenshot (I am ordering froma website called Robu.in) :
+
+<img width="688" height="872" alt="Screenshot 2026-06-18 020001" src="https://github.com/user-attachments/assets/b812fb50-5d2d-4ef9-bc58-6eb29a06d623" />
 
