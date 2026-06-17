@@ -9,4 +9,11 @@ Also as this project contains various moving parts (robot that moves, though it 
 and also will be trying to make it autonomous (through IMU unit...and this whole depend on firmware part). Though each of these individual specs are Level 3,
 Combining them (I think) will make it Level 4.
 
+for reviewers notes glitch on website, reviewer's note :
 
+I will be making this plane out of a foam board and also I will be making the receiver circuit on a perf board...
+and thats why I have not added Electronics in CAD model. and thats why .pcb file of reciever may be empty.
+
+Also this project was on the verge of passing (just a small mistake) on blueprint...Hope it helps review faster.
+
+Also AI usage (for whole code part) took less than 30% of whole project...so hope it is not a problem.
