@@ -5,7 +5,8 @@ and I know that that 12hr journal would be difficult for you to accept (got to k
 I couldn't add all parameters and each and every sketch in recording though...but you got it cause it was my first time making a 3D model...
 so it took a bit more time.
 
-Also for "I used AI" problem on website : I used AI for Coding stuff...Used Gemini and code was fairly simple.
+Also as this project contains various moving parts (robot that moves, though it is not a robot)...along with custom transmitter and reciever (with custom firmware)...
+and also will be trying to make it autonomous (through IMU unit...and this whole depend on firmware part). Though each of these individual specs are Level 3,
+Combining them (I think) will make it Level 4.
 
-also I didn't check "I need funding" part on purpose...as I am submitting design only.
-If I plan to build it in future I will use my own funds and partially use hardware grant from shop.
+
