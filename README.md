@@ -56,9 +56,12 @@ and now the reciever part, again note that I am making this on a perfboard and h
 
 <img width="1355" height="660" alt="Screenshot 2026-06-17 014339" src="https://github.com/user-attachments/assets/7c1c7e7f-2571-4bf5-908e-7f005ddaca37" />
 
-The BOM screenshot : 
+The BOM screenshots : 
 
-<img width="1598" height="333" alt="Screenshot 2026-06-18 020254" src="https://github.com/user-attachments/assets/842e4270-46ac-4cdf-83e1-49e69e0f32cb" />
+<img width="1387" height="453" alt="Screenshot 2026-06-28 155728" src="https://github.com/user-attachments/assets/562258fc-f9f5-4915-8e59-92e18580e480" />
+<img width="1256" height="364" alt="Screenshot 2026-06-28 155745" src="https://github.com/user-attachments/assets/35c3582f-e6cc-4c0e-9978-2ce93a36e43b" />
+
+
 
 Cart Screenshot (I am ordering froma website called Robu.in) :
 
