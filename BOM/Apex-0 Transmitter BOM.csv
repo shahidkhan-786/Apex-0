@@ -1,0 +1,14 @@
+﻿ITEM,DESCREPTION,QUANTITY,UNIT PRICE (INR),RUNNING TOTAL (INR) ,URL
+,,,,,
+,,,,,
+ESP32,ESP32,1,409,409,https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/
+OLED display,Oled display,1,209,618,https://robu.in/product/0-96-oled-display-module/
+ELRS,communication module,1,1375,1993,https://robu.in/product/expresslrs-rx24t-2-4g-receiver/
+Joystick module,Joysticks,2,self sourced,,
+Potentiometer ,potentiometer,1,self sourced,,
+PCB,main PCB to hold everything ,5(Minimum),2138,4131,https://robu.in
+,,,,,
+,,,,,
+,,,,,
+,,Grand total (INR),4131,,
+,,Grand total (USD),44,,

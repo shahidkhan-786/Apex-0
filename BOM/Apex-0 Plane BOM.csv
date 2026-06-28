@@ -1,0 +1,18 @@
+﻿ITEM,DESCREPTION,QUANTITY,UNIT PRICE (INR),RUNNING TOTAL (INR) ,URL
+,,,,,
+,,,,,
+,,,,,
+Foam Board ,Main structure,1,self sourced,0,local shop
+Servo motor ,MG90S servos,2,self sourced,0,https://robu.in/product/towardpro-mg90s-mini-digital-servo-2-2kg-0-08sec-13g/
+Servo Motor,MG90S servos,2,244,488,https://robu.in/product/towardpro-mg90s-mini-digital-servo-2-2kg-0-08sec-13g/
+BLDC Motor,Main motor ,1,1257,1745,https://robu.in/product/pro-range-d2207-1500kv-cww-brushless-drone-motor/
+BLDC ESC,BLDC ESC,1,1643,3388,https://robu.in/product/emax-blheli-series-30a-esc-oneshot-original/
+Propellor,11inch propellors,2,147,3682,https://robu.in/product/orange-hd-propellers-114711x4-7-abs-1cw1ccw-1pair-black/
+ELRS,communication module,1,1375,5057,https://robu.in/product/expresslrs-rx24t-2-4g-receiver/
+ESP32,ESP32,1,409,5466,https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/
+Battery,11.1V 1800mAH LiPo,1,1773,7239,https://robu.in/product/orange-11-1v-1800mah-3s-40c-lipo-battery-pack-xt60-connector/
+Buck converter,5V supply,2,175,7589,https://robu.in/product/dc-dc-step-down-buck-converter-power-supply-module-24v-12v-9v-to-5v-5a-25w-replace-lm2596s/
+,,,,,
+,,,,,
+,,Grand total (INR),7589,,
+,,Grand total (USD),81,,
