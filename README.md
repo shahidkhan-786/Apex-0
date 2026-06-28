@@ -59,7 +59,8 @@ and now the reciever part, again note that I am making this on a perfboard and h
 The BOM screenshots : 
 
 <img width="1387" height="453" alt="Screenshot 2026-06-28 155728" src="https://github.com/user-attachments/assets/562258fc-f9f5-4915-8e59-92e18580e480" />
-<img width="1256" height="364" alt="Screenshot 2026-06-28 155745" src="https://github.com/user-attachments/assets/35c3582f-e6cc-4c0e-9978-2ce93a36e43b" />
+
+<img width="1256" height="364" alt="Screenshot 2026-06-28 155745" src="https://github.com/user-attachments/assets/c3a06a77-e272-444f-94ae-3826b9cf442b" />
 
 
 
